@@ -5,7 +5,7 @@ A RESTful Address Book API built using FastAPI.
 ## Setup
 
 1. Clone repo
-git clone https://github.com/ATHIRAKBHASKARAN/address-book-app.git
+git clone https://github.com/ATHIRAKBHASKARAN//adress_book-fast-api.git
 cd address-book-app
 
 2. Create virtual env
